@@ -5,7 +5,7 @@ This RESTful API allows you to search log lines based on specified criteria in a
 ## Requirements
 
 - Go (Golang)
-- AWS credentials (if using AWS S3)
+- Any S3 Storage credentials
 
 ## Build and Run
 
