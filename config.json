@@ -1,0 +1,15 @@
+{
+  "credentials": {
+    "endpoint": "https://s3.{storage_region}.wasabisys.com",
+    "hostkey": "access_key",
+    "region": "storage_region",
+    "secretkey": "secret_key"
+  },
+  "bucketName": "app-logs-bucket",
+  "logFileDir": "logfiles",
+  "timeLayout": "2006-01-02",
+  "port": "8765",
+  "writeLogInterval": 5,
+  "uploadLogInterval": 30,
+  "serverStorage": true
+}
