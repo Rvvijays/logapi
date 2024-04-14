@@ -12,8 +12,8 @@ This RESTful API allows you to search log lines based on specified criteria in a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rvvijays/log-search-api.git
-   cd log-search-api
+   git clone https://github.com/Rvvijays/logapi.git
+   cd logapi
 
 
 2. Set up config:
