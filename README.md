@@ -51,7 +51,7 @@ This RESTful API allows you to search log lines based on specified criteria in a
     }
 - Sample Request
     ```bash
-    curl -X POST http://localhost:8765/api/logs/add -d '{"message":"error: getting error in file opening."}'
+    curl -X POST http://localhost:8765/api/logs/add -d '{"message":"log_message_here"}'
 
 ### Search Logs
 - URL: `/api/logs/search`
